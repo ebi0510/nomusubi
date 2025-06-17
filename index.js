@@ -45,7 +45,7 @@ function initMap() {
                     Map = (_a.sent()).Map;
                     map = new Map(document.getElementById("map"), {
                         center: { lat: 35.6523016, lng: 139.7312395 },
-                        zoom: 8,
+                        zoom: 13,
                     });
                     return [2 /*return*/];
             }
